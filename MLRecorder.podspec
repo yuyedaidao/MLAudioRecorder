@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'MLRecorder'
+  s.name         = 'MLAudioRecorder'
   s.version      = '1.0'
   s.license      =  'MIT'
   s.homepage     = 'https://github.com/yuyedaidao/MLAudioRecorder'
